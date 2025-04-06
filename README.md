@@ -63,5 +63,4 @@ This project is intended for educational and development purposes only. We are n
 
 ## 📫 Contact
 
-For support or questions, join our Discord (add the invite link here).
-https://discord.com/invite/getswift
+For support or questions, join our Discord ([add the invite link here](https://discord.com/invite/getswift)).
